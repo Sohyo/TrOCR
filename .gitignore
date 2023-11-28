@@ -1,0 +1,7 @@
+# Datasets
+test/
+train/
+SROIE2019/
+
+# virtualenv
+venv/
